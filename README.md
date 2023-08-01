@@ -35,10 +35,10 @@ e::B  = B_TY
 And this is a table:
 
 ```rs
-table! { TABLETY
-         R         S        T
-    A    AR_TY     AS_TY    AT_TY
-    B    BR_TY     BS_TY    BT_TY
+table! { API
+              Request   Response   Error
+    Login     AR_TY     AS_TY      AT_TY
+    Register  BR_TY     BS_TY      BT_TY
 }
 ```
 
