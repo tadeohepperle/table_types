@@ -1,0 +1,14 @@
+struct B_RS {
+    r: BR,
+    s: BS,
+}
+
+struct B_RT {
+    r: BR,
+    t: BT,
+}
+
+struct B_ST {
+    s: BS,
+    t: BT,
+}
